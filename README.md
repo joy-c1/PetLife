@@ -7,14 +7,15 @@
 
 
   Este projeto foi desenvolvido através do curso "Start na Programação" da Onebitcode, onde usamos ferramentas como HTML5, CSS3 e Javascript para criar o website para um petshp fictício.
-  [Clique aqui](https://joy-c1.github.io/pet-life/) para acessar a versão final. <br> <br>
-  Abaixo, é possível conferir a seção inicial do site:
+   <a href="https://joy-c1.github.io/pet-life/" target="_blank">Clique aqui</a> para acessar a versão final. <br> 
+   
+  Abaixo, é possível conferir algumas seções da página:
  
  ## 📍 Seção inicial
  
 ![PetLife - Seção inicial](https://github.com/joy-c1/pet-life/assets/102985990/024b3eff-5188-446b-92a1-d197732ef53c)
 
-Além dessa, o site também possui as seções de Clínica, Farmácia e Dúvidas, que conta com algumas dúvidas respondidas e links para entrar em contato direto com a empresa!
+Além dessa, o site também possui as seções de Clínica, Farmácia, Dúvidas e um rodapé com links para entrar em contato direto com a empresa!
 
 ## 📍 Seção de dúvidas
 
