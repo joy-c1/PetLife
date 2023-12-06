@@ -6,8 +6,9 @@
 > *Cuidando com amor, vivendo com alegria: PetLife, onde a vida dos pets é mais feliz!*
 
 
-  Este projeto foi desenvolvido no curso "Start na Programação" da Onebitcode, onde usamos ferramentas como HTML5, CSS3 e Javascript para criar o website para um petshp fictício.
- Abaixo, é possível conferir a seção inicial do site:
+  Este projeto foi desenvolvido através do curso "Start na Programação" da Onebitcode, onde usamos ferramentas como HTML5, CSS3 e Javascript para criar o website para um petshp fictício.
+  [Clique aqui](https://joy-c1.github.io/pet-life/) para acessar a versão final. <br> <br>
+  Abaixo, é possível conferir a seção inicial do site:
  
  ## 📍 Seção inicial
  
